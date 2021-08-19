@@ -1,5 +1,8 @@
 # salaodebeleza
 
+![image](https://user-images.githubusercontent.com/13257834/130068558-7a222db4-71bb-4433-bba0-1ce5bf306ab3.png)
+
+
 As funcionalidades necessárias nesta aplicação são:
 * cadastramento de políticas de desconto;
 * cadastramento de funcionários (de todos os tipos, usando 1 ArrayList);
